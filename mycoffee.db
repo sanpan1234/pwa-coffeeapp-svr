@@ -1,0 +1,2 @@
+{"name":"Frape Fake Espresso","place":"FakeBucks","location":{"address":"Fake Street","city":"Any City","latitude":34.0351588,"longitude":-84.6060449},"tastingRating":{"aroma":2,"flavor":4},"type":"Frappe","rating":3,"notes":"This was the first one created.","_id":"0c1nCF8hU7jgzI1q"}
+{"name":"Flat White","place":"My Cafe","location":{"address":"My House","city":"North Brunswick","latitude":34.0351588,"longitude":-84.6060449},"tastingRating":{},"type":"Espresso","rating":10,"notes":"My favorite, what is this? I got this one at STaRBuicks too.","_id":"JDCD4KnflVrtnziK"}
